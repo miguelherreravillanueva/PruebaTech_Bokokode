@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-drch {
+    flex: 1;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.header-izq {
+    flex: 1;
+    text-align: left;
+    font-size: large;
+}

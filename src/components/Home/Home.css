@@ -1,0 +1,67 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.cont-izq {
+  flex: 1;
+  text-align: left;
+  font-weight: bold;
+}
+
+.cont-drch {
+  flex: 1;
+  text-align: right;
+  margin-top: 10px;
+}
+
+button {
+  color: antiquewhite;
+  background-color: black;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div-izquierda {
+  flex: 1;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.div-derecha {
+  justify-content: space-between;
+  flex: 1;
+  text-align: right;
+  margin-top: 10px;
+}
+
+.imagen {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.img {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  flex: 1;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.figcaption {
+  display: block;
+  margin-top: 20px;
+}
