@@ -26,19 +26,22 @@ const Home = () => {
                 </div>
                 <div className='div-derecha'>
                     <Link to="products" className='link'>People also buy</Link>
-                    <figure className='img'>
-                        <img src={imagen1} alt="" />
-                        <figcaption>Door</figcaption>
-                    </figure>
-                    {/* <figure className='img'>
-                        <img src={imagen2} alt="" />
-                        <figcaption>Window</figcaption>
-                    </figure>
-                    <figure className='img'>
-                        <img src={imagen3} alt="" />
-                        <figcaption>Egg Balloon</figcaption>
-                    </figure> */}
+                    <div className='image-container'>
+                        <figure className='image'>
+                            <img src={imagen1} alt="" />
+                            <figcaption className='img-fig'>Door</figcaption>
+                        </figure>
+                        <figure className='image'>
+                            <img src={imagen2} alt="" />
+                            <figcaption className='img-fig'>Window</figcaption>
+                        </figure>
+                        <figure className='image'>
+                            <img src={imagen3} alt="" />
+                            <figcaption className='img-fig'>Egg Balloon</figcaption>
+                        </figure>
                     </div>
+                </div>
+
             </div>
         </>
     )
