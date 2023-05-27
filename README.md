@@ -38,9 +38,9 @@
 
 <!-- ABOUT THE OBJECTIVES -->
 ## Objectives
-### The main objective of this project has been to replicate the given design of a web page trying to connect it with a given API data.
-### This project has been carried out from scratch for a period of 3 days.
-### In this project users can: 
+The main objective of this project has been to replicate the given design of a web page trying to connect it with a given API data.
+This project has been carried out from scratch for a period of 3 days.
+In this project users can: 
 <objectives>
   <ol>
     <li>Scroll down the web</li>
