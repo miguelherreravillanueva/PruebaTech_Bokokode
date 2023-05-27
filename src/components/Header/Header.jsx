@@ -10,7 +10,7 @@ const Header = () => {
                     <p>BEJAMAS_</p>
                 </div>
                 <div className='header-drch'>
-                <ShoppingCartOutlined/>
+                <ShoppingCartOutlined style={{ fontSize: '24px' }} />
                 </div>
             </div>
            

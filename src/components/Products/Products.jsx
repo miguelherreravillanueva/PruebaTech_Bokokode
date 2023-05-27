@@ -10,7 +10,7 @@ const Products = () => {
     
   return (
     <div>
-        <p>People also buy</p>
+        <p>You can also buy this</p>
     </div>
   )
 }
