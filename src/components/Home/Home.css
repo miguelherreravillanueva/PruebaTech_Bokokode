@@ -46,7 +46,7 @@ button {
   object-fit: cover;
 }
 
-.link {
+.link1 {
   text-decoration: none;
   color: black;
   font-weight: bold;
@@ -60,7 +60,7 @@ button {
   flex: 1;
   margin: 0 10px;
   margin-top: 10px;
-  margin-left: 100px;
+  margin-left: 100px; 
 }
 
 .image-container {
@@ -71,4 +71,5 @@ button {
 .img-fig {
   display: block;
   margin-top: 10px;
+  font-weight: bold;
 }
