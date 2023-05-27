@@ -1,46 +1,177 @@
-# Getting Started with Create React App and Redux
+# Bokokode - Prueba Técnica
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+ <h3 align="center">PRUEBA TÉCNICA FRONTEND</h3>
 
-## Available Scripts
+  <p align="center">
+    Technical test for the company Bokokode using Javascript and React with Redux and CSS.
+    <br />
+    <a href="https://github.com/miguelherreravillanueva/PruebaTech_Bokokode"><strong>Explore the Frontend docs »</strong></a>
+    <br />
+    ·
+    <a href="https://github.com/miguelherreravillanueva/PruebaTech_Bokokode/issues">Report a Frontend Bug</a>
+    ·
+    <a href="https://github.com/miguelherreravillanueva/PruebaTech_Bokokode/issues">Request a Frontend Feature</a>
+    </p>
+</div>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+        <li><a href="#objectives">Objectives</a></li>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#endpoints">Endpoints</a></li>
+         <li><a href="#built-with">Built With</a></li>
+      </ul>   
+    </li>
+    <li><a href="#future-roadmap">Future Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- ABOUT THE OBJECTIVES -->
+## Objectives
+### The main objective of this project has been to replicate the given design of a web page trying to connect it with a given API data.
+### This project has been carried out from scratch for a period of 3 days.
+### In this project users can: 
+<objectives>
+  <ol>
+    <li>Scroll down the web</li>
+    <li>Add to cart</a></li>
+    <li>Select category</a></li>
+</ol>
+</objectives>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm run build`
+In this project, a web page is developed where users can scroll down the page and look for priced pictures that they can later add to a wishlist, and select the picture category. An external public API has been used to created this same project <a href="https://drive.google.com/file/d/1lHnunPH2AyrA77--7_pyrrDmawkdALk_/view"></a>, 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Views
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<views>
+ 
+  <ol>
+    <li>Home</a></li>
+    <li>Add to cart</a></li>
+    <li>People also buy</a></li>
+  </ol>
+</views>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Built With
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* [![Node][Node.JS]][Node.JS-url]
+* [![React][React]][React-url]
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+<!-- FUTURE -->
+## Future Roadmap
+
+- [ ] Keep perfectioning the page
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/YourName`)
+3. Commit your Changes (`git commit -m 'Add some YourName'`)
+4. Push to the Branch (`git push origin feature/YourName`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+This project is under license of Miguel Herrera.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- PREVIEW -->
+## Preview 
+
+- General overview gif
+
+![foto](./src/assets/b2fa5531-8506-42c1-94b8-720875686632.gif)
+
+
+
+<!-- CONTACT -->
+## Contact 
+
+  <p align="center">
+Miguel Herrera
+
+<a href = "mailto:mirkouda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/mherrevi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+Developed by [Miguel Herrera](https://github.com/miguelherreravillanueva)
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/sergiocano-dev
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
+[JWT-url]: https://jwt.io/
+[Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com/
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/es
+[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express.js-url]: https://expressjs.com/
+[Node.JS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node.JS-url]: https://nodejs.org/en/
+[SASS]: https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&logoColor=white
+[SASS-url]: https://sass-lang.com/
+[React]: https://img.shields.io/badge/React-219ebc?style=for-the-badge&logo=React&typoColor=fedcba&logoColor=white
+[React-url]: https://es.reactjs.org/
+
+
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[Postman-url]: https://www.postman.com/
