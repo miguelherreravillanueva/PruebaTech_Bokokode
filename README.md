@@ -1,6 +1,6 @@
 # Bokokode - Prueba Técnica
 
-<a name="top"></a>
+<a name="readme-top"></a>
 
  <h3 align="center">PRUEBA TÉCNICA FRONTEND</h3>
 
